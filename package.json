@@ -1,0 +1,9 @@
+{
+  "name": "repapelie-catalogo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Catálogo digital Repapelie com solicitações via WhatsApp",
+  "type": "module",
+  "scripts": {"start":"node src/server.js", "dev":"NODE_ENV=development node src/server.js", "test":"node --test", "check":"node --check src/server.js && node --check public/app.js"},
+  "engines": {"node": ">=20"}
+}

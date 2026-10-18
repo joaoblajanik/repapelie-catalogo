@@ -1,0 +1,139 @@
+{
+  "settings": {
+    "storeName": "Repapelie",
+    "tagline": "Seu mundo de papel, criatividade e detalhes especiais.",
+    "intro": "Explore o catálogo e monte sua solicitação. A disponibilidade e os valores finais serão confirmados pela nossa equipe.",
+    "whatsapp": "5511991050159",
+    "catalogVisible": true,
+    "privacyContact": "55 11 991050159",
+    "pickupInfo": ""
+  },
+  "categories": [
+    {
+      "id": "cat-escolar",
+      "name": "Material escolar",
+      "active": true,
+      "order": 0
+    },
+    {
+      "id": "cat-cadernos",
+      "name": "Cadernos e blocos",
+      "active": true,
+      "order": 1
+    },
+    {
+      "id": "cat-personalizados",
+      "name": "Personalizados",
+      "active": true,
+      "order": 2
+    },
+    {
+      "id": "cat-festas",
+      "name": "Festas e lembrancinhas",
+      "active": true,
+      "order": 3
+    },
+    {
+      "id": "cat-outros",
+      "name": "Outros produtos",
+      "active": true,
+      "order": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "Edvam Dias Morais",
+      "sku": "bjj",
+      "categoryId": "cat-personalizados",
+      "shortDescription": "chato reclamao",
+      "description": "muito reclamaoooo",
+      "image": "/uploads/b36afdbd-5855-417d-a1a0-2c5ff69363ee.jpg",
+      "gallery": [
+        "/uploads/f6cbcd57-2dc8-482a-97d3-29601fbf611e.jpg",
+        "/uploads/7efec7f5-c1d3-4c37-a8f4-ae12203f90e3.jpg"
+      ],
+      "priceMode": "quote",
+      "priceCents": null,
+      "availability": "available",
+      "options": [
+        {
+          "id": "opt-3cfa91e4-90c7-4a73-86af-c165a42b4043",
+          "label": "tema",
+          "type": "checkbox",
+          "choices": [
+            "batman"
+          ],
+          "required": false,
+          "help": "",
+          "maxLength": 120,
+          "feeCents": 200
+        }
+      ],
+      "tags": [
+        "15",
+        "00"
+      ],
+      "active": true,
+      "published": true,
+      "updatedAt": "2026-10-18T18:34:24.531Z",
+      "createdAt": "2026-10-18T18:26:04.378Z",
+      "id": "d33b5b4d-ef81-4f90-9a15-2aa857d8945b"
+    }
+  ],
+  "admin": {
+    "username": "naneblajanik",
+    "salt": "7d5c1f670fa9041235563a90a544ff22",
+    "hash": "ab4e21b9b9963ba8c74064bbe76342f9d0346142102543c20c6f7d59780f874dec0f866b3b7bfc9c074e53de37afb4ada90343b8ee6418cca4c17182b2caa055",
+    "createdAt": "2026-10-18T18:17:35.205Z"
+  },
+  "audit": [
+    {
+      "id": "8da495b7-01b5-420e-b3ab-8a64a6b250f8",
+      "action": "product_updated",
+      "subject": "Edvam Dias Morais",
+      "at": "2026-10-18T18:34:24.531Z"
+    },
+    {
+      "id": "8d80de10-edb4-44cf-bec4-3b89fec4f7dc",
+      "action": "product_updated",
+      "subject": "Edvam Dias Morais",
+      "at": "2026-10-18T18:32:38.531Z"
+    },
+    {
+      "id": "910d5c99-b847-4354-aa0b-53ccae3b980b",
+      "action": "settings_updated",
+      "subject": "configurações da loja",
+      "at": "2026-10-18T18:28:23.401Z"
+    },
+    {
+      "id": "f88735f3-b924-440b-8541-12565fa18f8d",
+      "action": "product_updated",
+      "subject": "Edvam Dias Morais",
+      "at": "2026-10-18T18:26:34.048Z"
+    },
+    {
+      "id": "8dbbcfa6-facd-49b5-ba37-c76911868e17",
+      "action": "product_created",
+      "subject": "Edvam Dias Morais",
+      "at": "2026-10-18T18:26:04.378Z"
+    },
+    {
+      "id": "3b0a36e7-fb13-43b8-89a2-0e0584c21232",
+      "action": "category_updated",
+      "subject": "Personalizados",
+      "at": "2026-10-18T18:21:35.254Z"
+    },
+    {
+      "id": "70d900ca-8cf7-4c41-a6c6-71677140eb7b",
+      "action": "category_updated",
+      "subject": "Personalizados",
+      "at": "2026-10-18T18:21:33.865Z"
+    },
+    {
+      "id": "ead26129-ce78-4f70-8a10-722d97e1f131",
+      "action": "admin_created",
+      "subject": "naneblajanik",
+      "at": "2026-10-18T18:17:35.206Z"
+    }
+  ]
+}
